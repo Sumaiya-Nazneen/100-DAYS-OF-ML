@@ -60,23 +60,6 @@ ML-Every-Day/
 
 ---
 
-## 📅 Progress
-
-| Day | Project | Status |
-|------|---------|--------|
-| 01 | Linear Regression | ✅ Completed |
-| 02 | Multiple Linear Regression | ⏳ Coming Soon |
-| 03 | Logistic Regression | ⏳ Coming Soon |
-| 04 | K-Nearest Neighbors | ⏳ Coming Soon |
-| 05 | Decision Tree | ⏳ Coming Soon |
-| 06 | Random Forest | ⏳ Coming Soon |
-| 07 | Support Vector Machine | ⏳ Coming Soon |
-| 08 | Naive Bayes | ⏳ Coming Soon |
-| 09 | K-Means Clustering | ⏳ Coming Soon |
-| 10 | Principal Component Analysis | ⏳ Coming Soon |
-
----
-
 ## 📚 What You'll Find
 
 Each project includes:
